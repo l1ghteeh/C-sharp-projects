@@ -1,4 +1,5 @@
-﻿namespace dz82
+﻿//Реализация действий над массивами с использованием Generics типов
+ namespace dz82
 {
     class array
     {
