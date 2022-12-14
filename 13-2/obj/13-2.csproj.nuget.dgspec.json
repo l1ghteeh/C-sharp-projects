@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {}
+    "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {
+    "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
+        "projectUniqueName": "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
         "projectName": "13-2",
-        "projectPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
+        "projectPath": "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
         "packagesPath": "C:\\Users\\nlolo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\obj\\",
         "projectStyle": "PackageReference",
