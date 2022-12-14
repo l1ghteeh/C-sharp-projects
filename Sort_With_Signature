@@ -39,7 +39,7 @@
                 Console.WriteLine("Элемент " + i + " = " + arr[i]);
         }
 
-        public void Sort2(int[] arr) //Сортировка вставками
+        public void InsertSort(int[] arr) //Сортировка вставками
         {
             for (int i = 1; i < arr.Length; i++)
             {
@@ -97,7 +97,7 @@
             Array Array = new Array();
             Sort Sort = new Sort();
             Sort.BubbleSort(Array.arr);
-            Sort.Sort2(Array.arr);
+            Sort.InsertSort(Array.arr);
             Sort.ChooseSort(Array.arr);
         }
     }
