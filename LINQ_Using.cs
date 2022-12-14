@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Использование LINQ в дейсвтиях над массивами
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
