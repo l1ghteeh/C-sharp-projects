@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
+      "projectUniqueName": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj",
       "projectName": "13-2",
-      "projectPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
+      "projectPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj",
       "packagesPath": "C:\\Users\\nlolo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\obj\\",
+      "outputPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nlolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,5 +63,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

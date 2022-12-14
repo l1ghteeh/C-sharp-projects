@@ -1,29 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {}
+    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {
+    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
+        "projectUniqueName": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj",
         "projectName": "13-2",
-        "projectPath": "C:\\Users\\nlolo\\source\\repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
-=======
-    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
-        "projectName": "13-2",
-        "projectPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\13-2.csproj",
->>>>>>> 817c4bc01a4149a919558fd322eb46032adea10d
+        "projectPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\13-2.csproj",
         "packagesPath": "C:\\Users\\nlolo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\13-2\\obj\\",
+        "outputPath": "C:\\Users\\nlolo\\Source\\Repos\\l1ghteeh\\C-sharp-projects\\OneMomentPrint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nlolo\\AppData\\Roaming\\NuGet\\NuGet.Config",

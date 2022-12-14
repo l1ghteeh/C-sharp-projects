@@ -3,7 +3,7 @@
     class Threads
     {
 
-        static Semaphore sem = new Semaphore(3, 3);
+        static Semaphore sem = new Semaphore(0, 3);
         public void Create()
         {
             Thread myThread1 = new Thread(ThreadStart);
@@ -16,6 +16,7 @@
             myThread1.Start();
             myThread2.Start();
             myThread3.Start();
+            sem.Release();
         }
 
 
@@ -23,7 +24,7 @@
         {
             sem.WaitOne();
             Console.WriteLine(Thread.CurrentThread.Name + "  --  " + DateTime.Now);
-            sem.Release();
+
         }
     }
 
