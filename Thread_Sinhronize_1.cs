@@ -18,11 +18,13 @@
             myThread12.Start();
             Thread.Sleep(1000);
             myThread13.Start();
-            
+            myThread11.Join();
+            myThread12.Join();
+            myThread13.Join();
 
         }
 
-
+        // Попеременный вывод
         public void ThreadStart1()
         {
             sem.WaitOne();
@@ -51,9 +53,13 @@
             Thread.Sleep(1000);
             myThread32.Start();
 
+            myThread21.Join();
+            myThread22.Join();
+            myThread23.Join();
+
         }
 
-       
+        //Попеременный вывод бэкграунд потоков
         public void ThreadStart2()
         {
             sem.WaitOne();
@@ -78,7 +84,7 @@
             myThread33.Start();
         }
 
-        
+        //Бесконечный метод для проверки нагрузки на процессор
         public void ThreadStart3()
         {
             bool changer = true;
