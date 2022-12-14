@@ -79,9 +79,9 @@ namespace DZshka
             //Console.ForegroundColor = ConsoleColor.Black;
             //Console.Clear();
             Encoding map = new Encoding();
-            map.RecordWrite1("Я расскажу вам о том, что случилось со мной прошлым летом. Мы с родителями часто проводим время в деревне. Там у нас большой деревянный дом и участок земли.");
-            map.RecordWrite2("Я расскажу вам о том, что случилось со мной прошлым летом. Мы с родителями часто проводим время в деревне. Там у нас большой деревянный дом и участок земли.");
-            map.RecordWrite3("Я расскажу вам о том, что случилось со мной прошлым летом. Мы с родителями часто проводим время в деревне. Там у нас большой деревянный дом и участок земли.");
+            map.RecordWrite1("A man and woman had been married for more than 60 years. They had shared everything. They had talked about everything.");
+            map.RecordWrite2("A man and woman had been married for more than 60 years. They had shared everything. They had talked about everything.");
+            map.RecordWrite3("A man and woman had been married for more than 60 years. They had shared everything. They had talked about everything.");
             map.RecordWrite4("A man and woman had been married for more than 60 years. They had shared everything. They had talked about everything.");
             map.StartMenu();
         }
